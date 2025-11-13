@@ -1,11 +1,11 @@
-import java.util.Scanner;
+// Jack Pruyn
 
 // Fixed incorrect wording issues crashing the game, 
 // added a room 5, ensured correct responses when 
 // looking for a missing item, going to a nonexistent room,
 // or looking for a nonexistent item
 
-
+import java.util.Scanner;
 public class RoomAdventure {
     // Class Variables
     private static Room currentRoom;
